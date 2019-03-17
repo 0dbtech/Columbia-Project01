@@ -1,5 +1,5 @@
 # Columbia-Project01
-1. This is a team project that I have worked with four other classmets. The purpose of this website is to provide an equal representation of
+1. This is a team project that I have worked with four other classmates. The purpose of this website is to provide an equal representation of
 the liberal and conservative media.
 
 2. Users can search on any political topic and the website will present them with articles and videos from both liberal and conservative
